@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+  background-color: #eee9de;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+article {
+  display: block;
+  text-align: center;
+}
+
+aside {
+  display: block;
+  text-align: center;
+}
+
+a {
+  border: 10px solid #
+}
+div {
+  margin: 1.5rem;
+  text-align: left;
+  display: inline-block;
+  max-width: 480px;
+}
+
+img {
+  display: inline-block;
+}
+
+a {
+  border: 10px solid #333;
+}
